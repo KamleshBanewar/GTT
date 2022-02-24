@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GTT/static/css/main.2462e69c.css",
+    "main.js": "/GTT/static/js/main.6dbcdd91.js",
+    "static/js/787.d3befce1.chunk.js": "/GTT/static/js/787.d3befce1.chunk.js",
+    "static/media/About.png": "/GTT/static/media/About.856ede764fb7eda65900.png",
+    "static/media/Home_Main.png": "/GTT/static/media/Home_Main.87c8696a6f9a8166f62a.png",
+    "static/media/Web Design.jpg": "/GTT/static/media/Web Design.19426f19f3310d68f01e.jpg",
+    "static/media/digital marketing.jpeg": "/GTT/static/media/digital marketing.22feea119ca3a79217d6.jpeg",
+    "static/media/software develop.jpg": "/GTT/static/media/software develop.66a7b5ed04f74a34f993.jpg",
+    "static/media/appDevelop.png": "/GTT/static/media/appDevelop.496eecf3fc956f0a3e54.png",
+    "static/media/Website-hosting.jpg": "/GTT/static/media/Website-hosting.0d67439b8279e28a6ede.jpg",
+    "static/media/database.webp": "/GTT/static/media/database.9e8dbc227bcf06262802.webp",
+    "index.html": "/GTT/index.html",
+    "main.2462e69c.css.map": "/GTT/static/css/main.2462e69c.css.map",
+    "main.6dbcdd91.js.map": "/GTT/static/js/main.6dbcdd91.js.map",
+    "787.d3befce1.chunk.js.map": "/GTT/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2462e69c.css",
+    "static/js/main.6dbcdd91.js"
+  ]
+}
